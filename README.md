@@ -5,3 +5,6 @@ Keep your files in one place without copying or moving it, the access is fast an
 Lisa - Made for all, especially for you. 
 
 Neology Software - our solutions for your needs.
+
+
+Information: Source code is inclued in the .zip package that you can download from the main project page. 
